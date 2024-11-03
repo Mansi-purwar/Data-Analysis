@@ -6,8 +6,7 @@ Conducted a comprehensive data analysis of a digital music store using SQL, appl
 Enhanced understanding of SQL for data analysis by designing queries to optimize dataset usability, supporting actionable recommendations to improve customer engagement and inventory management.
 
 ## Database and Tools
-* Postgre SQL
-* PgAdmin4
+* SQL
 
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
